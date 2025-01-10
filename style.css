@@ -30,6 +30,7 @@ nav{
 
 .primary-btn{
     font-family: Fira Sans;
+    font-weight: bold;
     width: 116px;
     height: 52px;
     border:1px solid rgb(0, 106, 80 );
@@ -79,7 +80,9 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
-
+.vision{
+    font-family: Fira Sans;
+}
 /* second-section styling */
 
 
@@ -101,7 +104,7 @@ nav{
     height: 244px;
     background: #FFFFFF;
     /* margin-bottom: 30px; */
-    color: rgb(5, 234, 66);
+    color: rgb(7, 7, 7);
     padding: 24px;
     border-radius:10px;
     margin: 20px;
@@ -152,7 +155,7 @@ nav{
     font-family: Fira Sans;
     background: #FFFFFF;
     /* margin-bottom: 30px; */
-    color: rgb(5, 234, 66);
+    color: rgb(9, 9, 9);
     padding: 24px;
     border-radius:10px;
     margin: 20px;
