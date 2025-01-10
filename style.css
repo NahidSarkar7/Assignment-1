@@ -210,4 +210,58 @@ background-color: rgb(247, 235, 207);
 
     background: url("image/quote-bg.png");
     background-repeat: no-repeat;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.about-head{
+
+    font-family:Fira Sans;
+    width: 222px;
+
+}
+.about{
+    font-family:Fira Sans;
+/* background: #922323; */
+
+
+}
+
+/* four section */
+
+.four-section{
+  margin-top: 300px;
+  margin-left: 120px;
+    /* margin: 300px 300px; */
+}
+.two-box{
+    display: flex;
+   background-color: #FFFFFF;
+   padding: 20px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+
+}
+.satelite-info{
+ /* background-color: red; */
+ width: 1044px;
+ height: 310px;
+ margin-left: 50px;
+
+}
+
+.sate-images{
+    border-radius: 10px;
+}
+
+.four-heading{
+    font-family: Fira Sans;
+    /* color: red; */
+}
+
+.boxces{
+    display: flex;
+}
+.images{
+    border-radius: 10px;
 }
