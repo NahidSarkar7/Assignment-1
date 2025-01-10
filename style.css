@@ -265,3 +265,89 @@ background-color: rgb(247, 235, 207);
 .images{
     border-radius: 10px;
 }
+
+.extra-btn{
+
+    font-family: Fira Sans;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(0, 106, 80 );
+    color: rgb(255, 255, 255);
+    width: 139px;
+    height: 48px;
+}
+
+/* five section */
+
+.donate{
+    text-align: center;
+}
+
+.five-section-header{
+    font-family: fira Sans;
+}
+
+.box-container-1{
+    display: flex;
+    /* justify-content: space-evenly; */
+     margin-left: 160px;
+     margin-bottom: 30px;
+    align-items: center;
+}
+
+.box-container{
+    font-family: Fira Sans;
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 250px;
+    height: 100px;
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: #FFFFFF;
+    /* background-color: aqua; */
+    border-radius: 16px;
+}
+
+.box-container:hover{
+    font-family: Fira Sans;
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 250px;
+    height: 100px;
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: rgb(114, 186, 152);
+    /* background-color: aqua; */
+    border-radius: 16px;
+}
+
+.bg-color{
+    background-color: rgb(114, 186, 152);
+}
+
+/* .taka:hover{
+    text-align: center;
+    margin-top: 20px; 
+    padding: 30px;
+    color: white
+    background-color:red;
+    
+} */
+
+.taka{
+    text-align: center;
+    margin-top: 20px; 
+    padding: 40px;
+    color: black;
+    background-color: #FFFFFF;
+    
+}
+
+input{
+    width: 1230px;
+    height: 46px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    font-family: Fira Sans;
+}
